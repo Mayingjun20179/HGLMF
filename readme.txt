@@ -1,6 +1,6 @@
 ##HGLMF
 
-Matlab code of Ma Y, Ma Y. Hypergraph-based logistic matrix factorization for metabolite–disease interaction prediction[J]. Bioinformatics, 2022, 38(2): 435-443.. 
+Matlab code of Ma Y, Ma Y. Hypergraph-based logistic matrix factorization for metabolite–disease interaction prediction[J]. Bioinformatics, 2022, 38(2): 435-443. 
 If the reference the code, please refer to the corresponding literature.
 
 (Written by Yingjun Ma, 2024)
